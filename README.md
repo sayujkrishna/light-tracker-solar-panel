@@ -33,4 +33,4 @@ I first simulated the circuit in Tinkercad to check that it worked. Then I built
 I tested it in a dark room with a phone flashlight. I moved the light left and right and watched the panel turn toward it. I have not tested it outdoors in real sunlight.
 
 ## Demo
-See `demotracker.mp4` in this repo.
+See `demotracker-small.mp4` in this repo.
