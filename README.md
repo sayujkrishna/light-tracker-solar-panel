@@ -34,7 +34,3 @@ I tested it in a dark room with a phone flashlight. I moved the light left and r
 
 ## Demo
 See `demotracker.mp4` in this repo.
-
-
-## What I learned
-I built this before I knew Arduino, so I learned how to take a circuit from simulation to a working build: testing it in Tinkercad, wiring it on a breadboard, and mounting it.
